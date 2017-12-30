@@ -6,6 +6,9 @@ Examples on Using Pytest Module
 to run the tesiting after downloading pytest using pip
 run in directory of the  test py files locations
 
+the py of the test should start with "test_"
+
+
 py.test -v
 
 Usefull Params examples:
