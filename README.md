@@ -8,8 +8,8 @@ Example of performance testing
 
 ______________________________________________
 
-test_MathTest.py(pytest):
-Examples on Using Pytest Module
+test_TestingStudy.py(pytest):
+Examples on Using Pytest Module (assert,fixtures(setup/teardown,mocking)
 
 
 to run the tesiting after downloading pytest using pip
