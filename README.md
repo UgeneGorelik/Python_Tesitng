@@ -20,7 +20,7 @@ the py of the test should start with "test_"
 
 py.test -v
 
-Usefull Params examples:
+Usefull command line Params examples:
 __________________________
 
 show all parametres:
